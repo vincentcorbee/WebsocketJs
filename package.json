@@ -1,0 +1,28 @@
+{
+  "name": "@digitalbranch/websocketjs",
+  "version": "1.0.0",
+  "description": "A websocket implementation for nodejs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentcorbee/WebsocketJs.git"
+  },
+  "keywords": [
+    "Websockets"
+  ],
+  "author": "V.J.M. Corbee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincentcorbee/WebsocketJs/issues"
+  },
+  "homepage": "https://github.com/vincentcorbee/WebsocketJs#readme",
+  "dependencies": {
+    "int64-buffer": "^1.0.0"
+  }
+}
