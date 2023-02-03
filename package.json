@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/vincentcorbee/WebsocketJs/issues"
   },
-  "homepage": "https://github.com/vincentcorbee/WebsocketJs#readme",
-  "dependencies": {
-    "int64-buffer": "^1.0.0"
-  }
+  "homepage": "https://github.com/vincentcorbee/WebsocketJs#readme"
 }
